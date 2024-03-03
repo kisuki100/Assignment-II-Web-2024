@@ -1,0 +1,68 @@
+/* styles.css */
+
+/* General styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+}
+
+.sidebar {
+    background-color: #FF5733; /* Red */
+    color: white;
+    width: 200px;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    margin-top: 0;
+}
+
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sidebar ul li {
+    margin-bottom: 10px;
+}
+
+.sidebar ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.content {
+    flex: 1;
+    padding: 20px;
+}
+
+/* Page-specific styles */
+
+/* Home page */
+.green-bg {
+    background-color: #28A745; /* Green */
+}
+
+/* Stories page */
+.red-bg {
+    background-color: #FF5733; /* Red */
+}
+
+/* Advice page */
+.green-bg {
+    background-color: #28A745; /* Green */
+}
+
+/* Interests page */
+.red-bg {
+    background-color: #FF5733; /* Red */
+}
+
+/* Contact page */
+.green-bg {
+    background-color: #28A745; /* Green */
+}
