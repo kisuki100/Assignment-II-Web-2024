@@ -3,6 +3,7 @@
                 <a href="stories.php">Stories</a>
                 <a href="advice.php">Advice</a>
                 <a href="interests.php">Interests</a>
+                 <a href="share.php">Share</a>
                 <a href="contact.php">Contact</a>
     </div>
 

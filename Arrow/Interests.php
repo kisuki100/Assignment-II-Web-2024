@@ -2,7 +2,7 @@
 <body>
 <?php include("templates/nav.php"); ?>
 <div class="header">
-    <h1>Intersts</h1>
+    <h1>Interests</h1>
 </div>
 
 
